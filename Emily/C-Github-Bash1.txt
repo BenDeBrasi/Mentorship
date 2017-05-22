@@ -1,0 +1,51 @@
+These questions serve as the minimum you should know. At the same time, don't think you need to all this within the first week.
+This is a guide that will serve for to you learn C, git and bash and a reference point as you teach yourself these concepts.
+
+
+Create an example for each question, if possible, and explain why concept is important.  Add your answers under each question as you go. 
+
+C:
+
+What is a makefile? 
+What are pointers?
+What is dereferencing?
+What is the * character used for in relation to pointers?
+Same as above but with & character
+What are macros?
+What are .o files?
+What is #include?
+What are the stages of compiling a C file?
+What terminal commands do you use to compile a C file?
+What is a .h file?
+What is prototyping? Why use it?
+What is pointer arithmetic?
+
+Github:
+
+What is version control? 
+What is a branch? 
+
+Define and give an example of the following commands:
+
+Pull
+Push
+Commit
+log
+stash
+
+Bash:
+
+What is bash and bash scripting? Why are they useful?
+
+Define and give an example of the following commands:
+
+ls
+cd
+mkdir
+cat
+pwd
+touch
+rm
+mv
+scp
+./
