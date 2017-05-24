@@ -27,11 +27,15 @@ What is a branch?
 
 Define and give an example of the following commands:
 
-Pull
-Push
-Commit
+pull
+push
+commit
 log
 stash
+add
+clone
+fork
+init
 
 Bash:
 
